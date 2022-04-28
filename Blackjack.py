@@ -1,1 +1,1 @@
-cards = {K : 10, Q : 10, 
+FaceCards = {K : 10, Q : 10, A : 11,}
